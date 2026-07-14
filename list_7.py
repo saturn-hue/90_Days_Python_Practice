@@ -41,3 +41,4 @@ del fruit_list[2]
 
 
 print(fruit_list)
+
